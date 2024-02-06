@@ -1,4 +1,4 @@
-Main Dataset: https://github.com/jamesqo/gun-violence-data
+Dataset can be found here: https://github.com/jamesqo/gun-violence-data
 Geospatial Dataset: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.2014.html#list-tab-1556094155
 Population Dataset: https://data.ers.usda.gov/reports.aspx?ID=17827. 
 Matplotlib API: API Reference — Matplotlib 3.7.1 documentation
