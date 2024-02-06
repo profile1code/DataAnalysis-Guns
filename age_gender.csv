@@ -1,0 +1,4 @@
+,incident_characteristics,participant_age_group,participant_gender,participant_type
+0,gang,0::Adult 18+||1::Adult 18+||2::Adult 18+||3::Adult 18+||4::Adult 18+,0::Male||1::Male||3::Male||4::Female,0::Victim||1::Victim||2::Victim||3::Victim||4::Subject-Suspect
+1,a,0::Adult 18+||1::Adult 18+||2::Teen 12-17||3::Adult 18+||4::Adult 18+,0::Male||1::Male||2::Male||3::Male||4::Male,0::Subject-Suspect||1::Subject-Suspect||2::Victim||3::Victim||4::Victim
+2,a,0::Adult 18+||1::Adult 18+||2::Adult 18+||3::Adult 18+,0::Female||1::Male||2::Male||3::Male,0::Victim||1::Victim||2::Victim||3::Subject-Suspect
